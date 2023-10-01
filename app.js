@@ -4,13 +4,19 @@
 
 /* -------------------------------------------------------- */
 
-const NAME = "Metastem";
+const NAME = "Metastemer";
 
 const CARDS = [
   {
     name: "Search",
     icon: "ri-search-2-line",
     link: "https://www.metastem.su",
+    color: "#5865F2",
+  },
+  {
+    name: "Sky",
+    icon: "ri-robot-2-line",
+    link: "https://sky.metastem.su",
     color: "#5865F2",
   },
   {
