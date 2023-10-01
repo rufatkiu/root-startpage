@@ -15,7 +15,7 @@ const CARDS = [
   },
   {
     name: "Sky",
-    icon: "ri-robot-2-line",
+    icon: "ri-robot-2-fill",
     link: "https://sky.metastem.su",
     color: "#5865F2",
   },
