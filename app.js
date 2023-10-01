@@ -9,24 +9,24 @@ const NAME = "Metastem";
 const CARDS = [
   {
     name: "Search",
-    icon: "gameicon-anarchy",
+    icon: "x-gameicon-anarchy",
     link: "https://www.metastem.su",
     color: "#5865F2",
   },
   {
     name: "Wiki",
-    icon: "fab-wikipedia-w",
+    icon: "x-fab-wikipedia-w",
     link: "https://wiki.metastem.su/",
     color: "#FF4500",
   },
   {
     name: "Translate",
-    icon: "zondicon-translate",
+    icon: "x-zondicon-translate",
     link: "https://translate.metastem.su/",
   },
   {
     name: "Flash",
-    icon: "entypo-flash",
+    icon: "x-entypo-flash",
     link: "https://www.metastem.su/su.metastem.federation.a705682.apk",
   },
 ];
